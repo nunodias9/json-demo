@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1234,
+      "title": "Product ABC",
+      "stock": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
