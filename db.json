@@ -16,7 +16,21 @@
       "stock": 4
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "orders": [
+    {
+      "id":"patientId",
+      "orderLineItems": [
+        {
+          "Name":"Product1",
+          "Product":"genwatt",
+          "Stock":3
+        },
+        {
+          "Name":"Product2",
+          "Product":"genwatt2",
+          "Stock":5
+        }
+      ]
+    }
+   ]
 }
