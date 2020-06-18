@@ -2,8 +2,18 @@
   "products": [
     {
       "id": "GC1060",
-      "title": "Product ABC",
+      "title": "GenWatt Diesel 1000kW",
       "stock": 5
+    },
+    {
+      "id": "GC5060",
+      "title": "GenWatt Gasoline 2000kW",
+      "stock": 8
+    },
+    {
+      "id": "GC5040",
+      "title": "GenWatt Gasoline 750kW",
+      "stock": 4
     }
   ],
   "profile": {
