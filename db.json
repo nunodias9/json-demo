@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": GC1060,
+      "id": "GC1060",
       "title": "Product ABC",
       "stock": 5
     }
