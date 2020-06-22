@@ -41,17 +41,17 @@
         {
           "id": "GC1060",
           "title": "GenWatt Diesel 1000kW",
-          "stock": 5
+          "stock": 10
         },
         {
           "id": "GC5060",
           "title": "GenWatt Gasoline 2000kW",
-          "stock": 8
+          "stock": 10
         },
         {
           "id": "GC5040",
           "title": "GenWatt Gasoline 750kW",
-          "stock": 4
+          "stock": 10
         }
       ]
     }
