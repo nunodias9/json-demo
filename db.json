@@ -18,19 +18,42 @@
   ],
   "orders": [
     {
-      "id":"patientId",
+      "id": "patientId",
       "orderLineItems": [
         {
-          "Name":"Product1",
-          "Product":"genwatt",
-          "Stock":3
+          "Name": "Product1",
+          "Product": "genwatt",
+          "Stock": 3
         },
         {
-          "Name":"Product2",
-          "Product":"genwatt2",
-          "Stock":5
+          "Name": "Product2",
+          "Product": "genwatt2",
+          "Stock": 5
         }
       ]
     }
-   ]
+  ],
+  "patients": [
+    {
+      "id": "0014S000003QTwyQAG",
+      "Name": "sForce",
+      "lineitems": [
+        {
+          "id": "GC1060",
+          "title": "GenWatt Diesel 1000kW",
+          "stock": 5
+        },
+        {
+          "id": "GC5060",
+          "title": "GenWatt Gasoline 2000kW",
+          "stock": 8
+        },
+        {
+          "id": "GC5040",
+          "title": "GenWatt Gasoline 750kW",
+          "stock": 4
+        }
+      ]
+    }
+  ]
 }
